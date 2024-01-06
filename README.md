@@ -10,12 +10,8 @@ This is a simple Streamlit web application for detecting six human emotions (Joy
 
 The app uses machine learing and deep learning models trained on preprocessed text data.
 
-Requirements
-Make sure you have the required packages installed:
 
-pip install scikit-learn==1.3.2
-pip install streamlit numpy nltk
-pip install tensorflow==2.15.0
+
 ## Usage
 # Model and Files
 The app uses the following saved files:
